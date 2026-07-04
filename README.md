@@ -36,6 +36,8 @@ Ensure you have PostgreSQL installed and running. Create a `.env` file in the ro
 DB_USER=your_username
 DB_PASSWORD=your_password
 DB_NAME=postgres
+```
+
 2. Installation
 Clone the repository and install the required dependencies:
 
